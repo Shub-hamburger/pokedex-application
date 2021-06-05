@@ -1,3 +1,7 @@
+# About the Project
+
+This is a cool looking pokedex application build using TypeScript with React.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
