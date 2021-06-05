@@ -1,0 +1,44 @@
+.pokedex-container {
+  background-color: #f40552;
+  width: 70%;
+  margin-left: 15%;
+  min-height: 475px;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 12px;
+}
+
+.pokelist-container::-webkit-scrollbar {
+  width: 0.75em;
+}
+ 
+.pokelist-container::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+.pokelist-container::-webkit-scrollbar-thumb {
+  background-color: salmon;
+  outline: 0.5px solid rgba(0, 0, 0, 0.158);
+}
+
+.pokelist-container {
+  width: 300px;
+  height: 455px;
+  background-color: rgba(252, 126, 47, 0.6);
+  margin: 10px;
+  flex-grow: 3;
+  border-radius: 10px 1px 1px 10px;
+  overflow-y: scroll;
+}
+
+.pokesearchresult-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 455px;
+  margin: 10px;
+  background-color: rgba(252, 126, 47, 0.6);
+  flex-grow: 1;
+  border-radius: 1px 10px 10px 1px;
+}

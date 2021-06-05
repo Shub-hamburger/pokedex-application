@@ -1,0 +1,20 @@
+.poke-result-card {
+  font-family: 'Press Start 2P', cursive;
+  min-width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f6d743;
+  border: 1px solid #120136;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  flex: 1;
+}
+
+.pokemon-animated {
+  height: 120px;
+  width: 120px;
+  padding: 12px;
+}

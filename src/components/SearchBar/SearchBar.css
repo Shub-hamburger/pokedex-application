@@ -1,0 +1,10 @@
+.search {
+  border: none;
+  padding: 15px;
+  width: 250px;
+  border: 1px solid #120136;
+  border-radius: 5px;
+  margin: 15px auto;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 14px;
+}
